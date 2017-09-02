@@ -58,7 +58,7 @@
   
 - STEP 6: Make adjacent center pieces in order
   
-- STEP 7: [Loop back](https://github.com/ameenkb/rubix/#secondary-steps)
+- STEP 7: [Loop back](https://ameenkb.github.io/rubix/#secondary-steps)
   
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
