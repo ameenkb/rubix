@@ -1,80 +1,71 @@
 # RUBIX CUBE TUTORIAL
 
-## STEP 1 
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
-  **Centre piece check**
-  
-## STEP 2
+## SETTING THE FIRST LAYER
 
-  Set primary piece
-  
-## STEP 3
+### PRIMARY STEPS
 
-  Find next piece
+- STEP 1: Centre piece check
   
-## STEP 4
+- STEP 2: Set primary piece
+  
+### SECONDARY STEPS
 
-  Check relation with facing layer
+- STEP 1: Find next piece
   
-  - If in relation, 
+- STEP 2: Check relation with facing layer
   
-    - Step 1: Take the layer out
-    
-    - Step 2: Change the piece
-    
-    - Step 3: Bring back the layer
-    
   - If not in relation, proceed
   
-## STEP 5
-
-  Check if the piece is in adjacent face
+  - If in relation, continue with the following steps
+  
+  - Take the layer out
+    
+  - Change the piece
+    
+  - Bring back the layer
+    
+- STEP 3: Check if the piece is in adjacent face
   
   - If yes, proceed
   
-  - If no,
+  - If no, continue with the following steps
   
-    - Step 1: Make the piece linearly opposite
+  - Make the piece linearly opposite
     
-    - Step 2: Take the layer out
+  - Take the layer out
     
-    - Step 3: Change the piece in place
+  - Change the piece in place
     
-    - Step 4 : Bring back the layer
+  - Bring back the layer
     
-# STEP 6
+### TERITIARY STEPS
 
-  Set the number to lowest possible
+- STEP 1: Set the number to lowest possible
   
-# STEP 7
-
-  Check if the piece is in path
+- STEP 2: Check if the piece is in path
   
   - If yes, bring down the piece
   
   - If no, proceed
   
-# STEP 8
+- STEP 3: Take the layer out
+  
+- STEP 4: Bring the piece t place
+  
+- STEP 5: Bring back the layer
+  
+- STEP 6: Make adjacent center pieces in order
+  
+- STEP 7: [Loop back](https://github.com/ameenkb/rubix/#secondary-steps)
+  
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
-  Take the layer out
-  
-# STEP 9
+## SETTING THE SECOND LAYER
 
-  Bring the piece t place
-  
-# STEP 10
+[WILL BE UPDATED SOON]
 
-  Bring back the layer
-  
-# STEP 11
-
-  Make adjacent center pieces in order
-  
-# STEP 12
-
-  [Loop back](https://github.com/ameenkb/rubix/#step-3)
-  
-  
   
   
   
