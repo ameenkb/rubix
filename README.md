@@ -44,7 +44,7 @@
     
 # STEP 6
 
-  Set the number
+  Set the number to lowest possible
   
 # STEP 7
 
